@@ -7,8 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="Entites\" />
     <Folder Include="Responses\" />
   </ItemGroup>
 
@@ -17,3 +15,4 @@
   </ItemGroup>
 
 </Project>
+
